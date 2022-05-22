@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Jaleco",
+        "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "price": "R$ 999,99",
+        "categoria": "Camisas",
+        "available": true
+    },
+    {
+        "id": 2,
+        "name": "Avental",
+        "description": "Jaleco de alta qualidadjrthrthrte fabricado para atender aos clientes mais exigentes",
+        "price": "R$ 999,99",
+        "categoria": "Blusas",
+        "available": true
+    },
+    {
+        "id": 3,
+        "name": "Touca",
+        "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "price": "R$ 999,99",
+        "categoria": "Camisas",
+        "available": true
+    },
+    {
+        "id": 4,
+        "name": "Boné",
+        "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "price": "R$ 999,99",
+        "categoria": "Calças",
+        "available": true
+    },
+    {
+        "id": 5,
+        "name": "Fronha",
+        "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "price": "R$ 999,99",
+        "categoria": "Blusas",
+        "available": true
+    },
+    {
+        "id": 6,
+        "name": "Jaleco",
+        "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "price": "R$ 999,99",
+        "categoria": "Camisas",
+        "available": true
+    },
+    {
+        "id": 7,
+        "name": "Avental",
+        "description": "Jaleco de alta qualidadjrthrthrte fabricado para atender aos clientes mais exigentes",
+        "price": "R$ 999,99",
+        "categoria": "Blusas",
+        "available": true
+    },
+    {
+        "id": 8,
+        "name": "Touca",
+        "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "price": "R$ 999,99",
+        "categoria": "Camisas",
+        "available": true
+    },
+    {
+        "id": 9,
+        "name": "Boné",
+        "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "price": "R$ 999,99",
+        "categoria": "Calças",
+        "available": true
+    },
+    {
+        "id": 10,
+        "name": "Fronha",
+        "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "price": "R$ 999,99",
+        "categoria": "Blusas",
+        "available": true
+    }
+]

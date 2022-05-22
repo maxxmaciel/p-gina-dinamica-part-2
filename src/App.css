@@ -1,0 +1,10 @@
+#categorias {
+    width: 200px;
+    height: 200px;
+}
+
+.caixa {
+    width: 200px;
+    height: 200px;
+    background-color:red;
+}
