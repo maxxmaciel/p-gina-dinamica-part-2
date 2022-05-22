@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "Jaleco",
+        "descrição": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "preço": "R$ 999,99",
+        "categoria": "Camisas"
+    },
+    {
+        "id": 2,
+        "nome": "Avental",
+        "descrição": "Jaleco de alta qualidadjrthrthrte fabricado para atender aos clientes mais exigentes",
+        "preço": "R$ 999,99",
+        "categoria": "Blusas"
+    },
+    {
+        "id": 3,
+        "nome": "Touca",
+        "descrição": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "preço": "R$ 999,99",
+        "categoria": "Camisas"
+    },
+    {
+        "id": 4,
+        "nome": "Boné",
+        "descrição": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "preço": "R$ 999,99",
+        "categoria": "Calças"
+    },
+    {
+        "id": 5,
+        "nome": "Fronha",
+        "descrição": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "preço": "R$ 999,99",
+        "categoria": "Blusas"
+    },
+    {
+        "id": 6,
+        "nome": "Jaleco",
+        "descrição": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "preço": "R$ 999,99",
+        "categoria": "Camisas"
+    },
+    {
+        "id": 7,
+        "nome": "Avental",
+        "descrição": "Jaleco de alta qualidadjrthrthrte fabricado para atender aos clientes mais exigentes",
+        "preço": "R$ 999,99",
+        "categoria": "Blusas"
+    },
+    {
+        "id": 8,
+        "nome": "Touca",
+        "descrição": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "preço": "R$ 999,99",
+        "categoria": "Camisas"
+    },
+    {
+        "id": 9,
+        "nome": "Boné",
+        "descrição": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "preço": "R$ 999,99",
+        "categoria": "Calças"
+    },
+    {
+        "id": 10,
+        "nome": "Fronha",
+        "descrição": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+        "preço": "R$ 999,99",
+        "categoria": "Blusas"
+    }
+]

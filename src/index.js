@@ -1,21 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Indice, {Project, Categoria } from './App';
+import Indice, { Produto, Categoria } from './App';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter , Route, Routes} from 'react-router-dom'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { Header } from './componentes/header.js'
+import { Footer } from './componentes/footer.js'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-  <BrowserRouter>
-    <Routes>
-      <Route path="/" element={<Indice />} />
-      <Route path=":categoriaProject" element={<Categoria />} />
-      <Route path=":categoriaProject/:idProject" element={<Project />} />
-     
-         </Routes>
-  </BrowserRouter>
+    <BrowserRouter>
+      <Header />
+      <Routes>
+        <Route path="/" element={<Indice />} />
+        <Route path=":categoriaProject" element={<Categoria />} />
+        <Route path=":categoriaProject/:idProject" element={<Produto />} />
+      </Routes>
+      <Footer />
+    </BrowserRouter>
   </React.StrictMode>
 );
 
